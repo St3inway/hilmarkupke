@@ -2,3 +2,7 @@
   object-fit: cover;
 }
 
+#web-title {
+  transform: rotate(90deg);
+}
+

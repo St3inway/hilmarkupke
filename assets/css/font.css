@@ -30,25 +30,33 @@
   }
 }
 
-#CV {
-  border-top: 1px solid var(--bs-emphasis-color);
-}
-
 @media (min-width: 576px) and (max-width: 992px) {
   .img-left {
     max-width: 200px;
   }
 }
 
-@media (min-width: 992px) and (max-width: 1400px) {
+@media (max-width: 1200px) {
+  .img-left {
+    max-width: 237px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1400px) {
   .img-left {
     max-width: 350px;
   }
 }
 
-@media (min-width: 1600px) {
+@media (min-width: 1400px) and (max-width: 1800px) {
   .img-left {
-    max-width: 550px;
+    max-width: 450px;
+  }
+}
+
+@media (min-width: 1800px) {
+  .img-left {
+    max-width: 634px;
   }
 }
 
