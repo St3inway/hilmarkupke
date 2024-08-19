@@ -371,7 +371,7 @@ li {
 
 @media (min-width: 576px) and (max-width: 1799px) {
   .CV-list {
-    font-size: 17px;
+    font-size: 16px;
     max-width: 674px;
   }
 }
