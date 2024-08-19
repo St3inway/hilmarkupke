@@ -254,7 +254,7 @@ li {
   .img-2 {
     width: 100%;
     object-fit: contain;
-    max-height: 600px;
+    max-height: 567px;
   }
 }
 
@@ -338,7 +338,7 @@ li {
 
 @media (min-width: 1800px) {
   .title-3 {
-    font-size: 40px;
+    font-size: 30px;
     margin-bottom: 20px;
   }
 }
@@ -352,7 +352,7 @@ li {
 
 @media (min-width: 1800px) {
   .s-title-3 {
-    font-size: 25px;
+    font-size: 20px;
   }
 }
 
@@ -378,14 +378,14 @@ li {
 
 @media (min-width: 1800px) {
   .CV-list {
-    font-size: 25px;
+    font-size: 16px;
     max-width: 1000px;
   }
 }
 
 @media (min-width: 1800px) {
   .text {
-    font-size: 25px;
+    font-size: 16px;
   }
 }
 
@@ -477,7 +477,7 @@ li {
   .site-title {
     text-decoration: none;
     color: var(--bs-emphasis-color);
-    font-size: 40px;
+    font-size: 30px;
     display: flex;
     margin: auto;
     padding-left: 40px;
@@ -628,7 +628,7 @@ li {
   .site-link {
     text-decoration: none;
     color: var(--bs-emphasis-color);
-    font-size: 18px;
+    font-size: 16px;
     font-family: 'IBM Plex Serif';
     display: flex;
     /*padding: 45px;*/
@@ -818,7 +818,7 @@ li {
 
 @media (min-width: 1400px) {
   .img-left-1 {
-    max-width: 520px;
+    max-width: 461px;
   }
 }
 
@@ -917,10 +917,10 @@ li {
 @media (min-width: 1800px) {
   #vertical-title {
     font-family: 'Playfair Display', serif;
-    font-size: 70px;
+    font-size: 40px;
     margin: 0px;
     padding: 40px;
-    letter-spacing: 21px;
+    letter-spacing: 30px;
     writing-mode: vertical-rl;
     text-orientation: mixed;
   }
