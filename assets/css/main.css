@@ -926,7 +926,7 @@ li {
   }
 }
 
-@media (max-width: 565px) {
+@media (max-width: 567px) {
   #text-1 {
     font-family: 'Source Sans Pro', sans-serif;
     color: var(--bs-body-color);
@@ -938,7 +938,7 @@ li {
   }
 }
 
-@media (min-width: 576px) and (max-width: 1799px) {
+@media (min-width: 568px) and (max-width: 1799px) {
   #text-1 {
     font-family: 'Source Sans Pro', sans-serif;
     color: var(--bs-body-color);
